@@ -8,15 +8,18 @@ APICURON is already supported by 2022-APICURON implementation study of the Data 
 
 ## Topics
 
-Data Platform
-Interoperability Platform
-Tools Platform
+- Data Platform
+- Interoperability Platform
+- Tools Platform
+- Document Versioning
+
 
 **Project Number:** 2
 
 ### Lead(s)
 
-Damiano Piovesan, damiano.piovesan@unipd.it
+- Damiano Piovesan, damiano.piovesan@unipd.it
+- Bouhraoua Kamel Eddine Adel, adel.bouhraoua@unipd.it
 
 ## Expected outcomes
 
@@ -37,4 +40,9 @@ Long term outcomes
 Database maintainers with knowledge about versioning, interaction with API, authentication technology
 
 **Number of expected hacking days**: 4
+
+## Project Progress 
+- [Day 1](Day1.md)
+
+
 
